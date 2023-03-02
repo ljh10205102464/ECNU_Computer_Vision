@@ -1,0 +1,1 @@
+#### 对应的checkpoint可以在<https://github.com/open-mmlab/mmsegmentation>下载
